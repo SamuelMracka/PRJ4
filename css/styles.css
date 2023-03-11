@@ -15,6 +15,15 @@ body {
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
+.h1 {
+	font-family: "taboo-pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 131px;
+    margin-left: 40px;
+    letter-spacing: 5px;
+}
+
 .resume-header {
     background-color: #303030;
 }
